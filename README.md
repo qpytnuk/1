@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-# Домашнее задание к занятию "`Система мониторинга Zabbix`" - `Чивильча Андрей`
-=======
 # Домашнее задание к занятию "`Система мониторинга Zabbix`" - `Чивильча Андрей`.
->>>>>>> 14f0e5281f859db027532aa877dbb8cb75cb51fc
 
 
 ### Инструкция по выполнению домашнего задания
@@ -74,13 +70,6 @@ $ sudo systemctl enable zabbix-server zabbix-agent apache2
 tail -fn 100 /var/log/zabbix/zabbix_agentd.log
 
 Скри1:
-<<<<<<< HEAD
-![Скрин1](https://github.com/qpytnuk/1/blob/master/img/)
-Скрин2:
-![Скрин2](https://github.com/qpytnuk/1/blob/master/img/)
-Скрин3:
-![Скрин3](https://github.com/qpytnuk/1/blob/master/img/)
-=======
 ![Скрин1](https://github.com/qpytnuk/1/blob/master/img/task_2-1.png)
 Скрин2:
 ![Скрин2](https://github.com/qpytnuk/1/blob/master/img/task_2-2.png)
