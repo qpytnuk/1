@@ -75,7 +75,6 @@ tail -fn 100 /var/log/zabbix/zabbix_agentd.log
 ![Скрин2](https://github.com/qpytnuk/1/blob/master/img/task_2-2.png)
 Скрин3:
 ![Скрин3](https://github.com/qpytnuk/1/blob/master/img/task_2-3.png)
->>>>>>> 14f0e5281f859db027532aa877dbb8cb75cb51fc
 
 
 ---
